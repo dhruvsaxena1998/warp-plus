@@ -24,3 +24,5 @@ getFreeData(key, 5); // provide 10GB of data.
 // open terminal cd to project and run
 npm start
 ```
+
+> Note: It just make your manual work automated nothing else, so yes each and every process gonna cost some time, each process cost around 20-30seconds, means you can get 2GB at per 30seconds.
