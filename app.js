@@ -24,5 +24,5 @@ const getFreeData = async (key, amount) => {
 
 const wait = ms => new Promise((res, rej) => setTimeout(res, ms))
 const key = process.env.KEY;
-
-getFreeData(key, 5);
+if (key) getFreeData(key, 2);
+else console.log('Please enter the key')
