@@ -1,12 +1,12 @@
 {
   "name": "wrap",
   "version": "1.0.0",
-  "description": "",
+  "description": "script for getting wrap+ data",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
-  "author": "",
+  "author": "dhruvsaxena1998",
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {

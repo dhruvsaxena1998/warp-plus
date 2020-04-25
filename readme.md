@@ -22,5 +22,5 @@ each loops gives 2GB of data. */
 getFreeData(key, 5); // provide 10GB of data.
 
 // open terminal cd to project and run
-node app.js
+npm start
 ```
